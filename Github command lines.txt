@@ -1,0 +1,4 @@
+To add file i github
+
+1st cd :- git remote add origin https://github.com/n4ojha/Story.git
+2nd cd :- git push -u origin master
